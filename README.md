@@ -3,17 +3,24 @@
 Hey !
 
 Firstly connect your metamask with this dapp & after that you need to select your birthdate. It will mint the token for that zodiac sign . As simple as that.
+![alt text]([[https://raw.githubusercontent.com/anukulpandey/MonkeyShare-reef/main/img/landing.png](https://raw.githubusercontent.com/anukulpandey/horoscope-nft-dapp/main/public/Screenshot_20221025_131738.png)](https://raw.githubusercontent.com/anukulpandey/horoscope-nft-dapp/main/public/Screenshot_20221025_131738.png) "landing page")
 
 ## For Developers
 
 ```solidity
 //clone this repository
-git clone 
+git clone https://github.com/anukulpandey/horoscope-nft-dapp web3dapp
 
 //change directory 
 cd web3dapp 
 
 //add environment variables in .env file
+
+//Install all dependencies
+npm install
+
+//run the dapp
+npm start
 ```
 
 You can use any network you want. Here I have used polygon testnet.
