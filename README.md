@@ -3,7 +3,8 @@
 Hey !
 
 Firstly connect your metamask with this dapp & after that you need to select your birthdate. It will mint the token for that zodiac sign . As simple as that.
-![alt text]([[https://raw.githubusercontent.com/anukulpandey/MonkeyShare-reef/main/img/landing.png](https://raw.githubusercontent.com/anukulpandey/horoscope-nft-dapp/main/public/Screenshot_20221025_131738.png)](https://raw.githubusercontent.com/anukulpandey/horoscope-nft-dapp/main/public/Screenshot_20221025_131738.png) "landing page")
+
+![Alt text](https://raw.githubusercontent.com/anukulpandey/horoscope-nft-dapp/main/public/Screenshot_20221025_131738.png "a title")
 
 ## For Developers
 
